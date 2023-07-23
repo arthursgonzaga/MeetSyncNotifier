@@ -1,0 +1,6 @@
+# Credentials
+.env
+
+# Google Secrets
+src/python/credentials.json
+src/python/token.json
